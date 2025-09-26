@@ -1,0 +1,27 @@
+{
+  "name": "Zoran-Delta-Benchmark-400",
+  "version": "1.0.0",
+  "author": "Frédéric Tabary · Institut IA",
+  "date": "2025-09-26",
+  "questions_total": 400,
+  "lots": 60,
+  "domains": [
+    "mathematics",
+    "physics",
+    "biology",
+    "medicine",
+    "philosophy",
+    "social_sciences",
+    "economics",
+    "law",
+    "governance",
+    "engineering",
+    "arts"
+  ],
+  "injectors": [
+    "ZORAN_ULTRA_INJECTOR.md",
+    "injector/zoran_injector_full.md"
+  ],
+  "hashes": "checksums.sha256",
+  "license": "MIT"
+}
